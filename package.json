@@ -1,0 +1,12 @@
+{
+  "name": "ArredondarValor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "qunit"
+  },
+  "devDependencies": {
+    "qunit": "^2.18.0"
+  }
+}
